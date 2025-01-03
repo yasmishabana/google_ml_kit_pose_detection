@@ -185,3 +185,4 @@ class _GalleryViewState extends State<GalleryView> {
     widget.onImage(inputImage);
   }
 }
+
