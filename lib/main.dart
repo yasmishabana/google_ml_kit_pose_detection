@@ -1,10 +1,5 @@
-
-
-
-
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
-import 'package:google_ml_kit/google_ml_kit.dart';
 import 'package:pose_detection_app/pose_detector_view.dart';
 
 void main() async {
